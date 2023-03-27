@@ -6,6 +6,8 @@ body {
 
 .nacionalidade{
     color: rgb(229, 229, 229);
+    background-color: rgb(204, 164, 59);
+    width: 750px;
 }
 
 .myself{
@@ -42,4 +44,5 @@ body {
 
 footer{
 background-color: rgb(204, 164, 59);
+width: 750px;
 }
